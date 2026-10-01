@@ -11,11 +11,12 @@
 - Note-taking: Microsoft OneNote
 
 ## Study Schedule
-| Day | Topic | Time |
-|-----|-------|------|
-| Monday | GitHub Basics | 2:00 PM - 3:00 PM |
-| Wednesday | Branching & Merging | 2:00 PM - 3:00 PM |
+| Day | Topic | Time | Place | 
+|-----|-------|------| ———- |
+| Monday | GitHub Basics | 2:00 PM - 3:00 PM | Home |
+| Wednesday | Branching & Merging | 2:00 PM - 3:00 PM | Home | 
 | Friday | Collaboration | 2:00 PM - 3:00 PM |
+College |
 
 ## Quick Reference
 - Create branch: Branch dropdown → Type name → Create
